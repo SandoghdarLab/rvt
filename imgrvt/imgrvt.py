@@ -2,7 +2,7 @@
 Python implementation of the Radial Variance Transform.
 
 The algorithm described in
-A. D. Kashkanova, A. B. Shkarin, R. G. Mahmoodabadi, M. Blessing, Y. Tuna, A. Gemeinhardt, and V. Sandoghdar,
+A. D. Kashkanova, A. B. Shkarin, R. Gholami Mahmoodabadi, M. Blessing, Y. Tuna, A. Gemeinhardt, and V. Sandoghdar,
 "Precision single-particle localization using radial variance transform," Opt. Express 29, 11070-11083 (2021)
 (https://doi.org/10.1364/OE.420670)
 """

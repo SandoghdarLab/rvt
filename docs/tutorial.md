@@ -1,6 +1,6 @@
 # Tutorial
 
-This is a short tutorial which demonstrates the meaning of different RVT parameters on test images. The tutorial is also available as a [Jupyter notebook](https://github.com/AlexShkarin/RVT/blob/main/docs/tutorial.ipynb).
+This is a short tutorial which demonstrates the meaning of different RVT parameters on test images. The tutorial is also available as a [Jupyter notebook](https://github.com/SandoghdarLab/RVT/blob/main/docs/tutorial.ipynb).
 
 ## Environment setup
 

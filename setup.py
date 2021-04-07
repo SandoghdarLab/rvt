@@ -22,11 +22,11 @@ setuptools.setup(
     description='Radial variance transform',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/AlexShkarin/rvt',
+    url='https://github.com/SandoghdarLab/rvt',
     project_urls={
-        'Documentation': 'https://github.com/AlexShkarin/rvt',
-        'Source': 'https://github.com/AlexShkarin/rvt',
-        'Tracker': 'https://github.com/AlexShkarin/rvt/issues'
+        'Documentation': 'https://github.com/SandoghdarLab/rvt',
+        'Source': 'https://github.com/SandoghdarLab/rvt',
+        'Tracker': 'https://github.com/SandoghdarLab/rvt/issues'
     },
     classifiers=[
         'Development Status :: 5 - Production/Stable',

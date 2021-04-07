@@ -16,4 +16,4 @@ import imgrvt as rvt
 transformed=rvt.rvt(image,rmin=2,rmax=25)
 ```
 
-The details and application recommendations are described in the [tutorial](https://github.com/AlexShkarin/rvt/blob/main/docs/tutorial.md).
+The details and application recommendations are described in the [tutorial](https://github.com/SandoghdarLab/rvt/blob/main/docs/tutorial.md).
